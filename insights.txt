@@ -1,0 +1,5 @@
+Insights
+
+1. The Data suggests that technology was the most sold category in majority of states.
+
+2. States with larger cities have displayed more sales.
